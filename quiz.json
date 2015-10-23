@@ -1,0 +1,21 @@
+[{
+  "question": "How many presidents were members of the Whig party?",
+  "choices": ["Four", "Three", "Two"],
+  "correct": 0
+}, {
+  "question": "Who was the first president to be impeached?",
+  "choices": ["Andrew Jackson", "Andrew Johnson", "Warren Harding"],
+  "correct": 1
+}, {
+  "question": "How many presidents died during their presidency?",
+  "choices": ["Four", "Six", "Eight"],
+  "correct": 2
+}, {
+  "question": "How many presidents had no party affiliation?",
+  "choices": ["One", "Two", "Three"],
+  "correct": 0
+}, {
+  "question": "Who was the only president to serve two non-consecutive terms, making him both the 22nd and 24th president?",
+  "choices": ["John Quincy Adams", "William Howard Taft", "Grover Cleveland"],
+  "correct": 2
+}]
