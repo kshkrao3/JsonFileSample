@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NEWSFEED>
+    <STATUS>
+        <UPDATE><![CDATA[<a href="#" id="open">Latest News updates/ticker 1</a>]]></UPDATE>
+    </STATUS>
+    <STATUS>
+        <UPDATE>Latest News updates/ticker 2</UPDATE>
+    </STATUS>
+    <STATUS>
+        <UPDATE>Latest News updates/ticker 3</UPDATE>
+    </STATUS>
+    <STATUS>
+        <UPDATE>Latest News updates/ticker 4</UPDATE>
+    </STATUS>
+</NEWSFEED>
