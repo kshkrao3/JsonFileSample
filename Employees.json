@@ -5,12 +5,10 @@
   "total"     : "$10",
   "payment"   : "Cash",
   "product" : [
-    {"product1"},
-    {"product2"}
+    "product1","product2"
   ],
   "price" : [
-    {"$5"},
-    {"$5"}
+    "$5","$5"
   ]
 },
 {
