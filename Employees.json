@@ -1,31 +1,30 @@
-{"data": [
 {
-  "date"      : "1/17/2016",
-  "supplier"  : "supplier1",
-  "total"     : "$10",
-  "payment"   : "Cash",
-  "product[0]": "product1",
-  "product[1]": "product2",
-  "price[0]"  : "$5",
-  "price[1]"  : "$5",
-},
-{
-  "date"      : "2/1/2016",
-  "supplier"  : "supplier2",
-  "total"     : "$3",
-  "payment"   : "Cash",
-  "product[0]": "product1",
-  "price[0]"  : "$3",
-},
-{
-  "date"      : "1/17/2016",
-  "supplier"  : "supplier3",
-  "total"     : "$15",
-  "payment"   : "Cash",
-  "product[0]": "product1",
-  "product[1]": "product2",
-  "product[2]": "product2",
-  "price[0]"  : "$3",
-  "price[1]"  : "$5",
-  "price[2]"  : "$7",
-}]}
+	"data": [{
+		"date": "1/17/2016",
+		"supplier": "supplier1",
+		"total": "$10",
+		"payment": "Cash",
+		"product[0]": "product1",
+		"product[1]": "product2",
+		"price[0]": "$5",
+		"price[1]": "$5"
+	}, {
+		"date": "2/1/2016",
+		"supplier": "supplier2",
+		"total": "$3",
+		"payment": "Cash",
+		"product[0]": "product1",
+		"price[0]": "$3"
+	}, {
+		"date": "1/17/2016",
+		"supplier": "supplier3",
+		"total": "$15",
+		"payment": "Cash",
+		"product[0]": "product1",
+		"product[1]": "product2",
+		"product[2]": "product2",
+		"price[0]": "$3",
+		"price[1]": "$5",
+		"price[2]": "$7"
+	}]
+}
