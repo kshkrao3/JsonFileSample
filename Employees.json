@@ -4,40 +4,40 @@
   "supplier"  : "supplier1",
   "total"     : "$10",
   "payment"   : "Cash",
-  "product" : {
-     "product1",
-     "product2"
-  }
-  "price" : {
-     "$5",
-     "$5"
-  }
+  "product" : [
+    {"id":1,"name":"product1"},
+    {"id":2,"name":"product2"}
+  ]
+  "price" : [
+    {"id":1,"value":"$5"},
+    {"id":2,"value":"$5"}
+  ]
 },
 {
   "date"      : "2/1/2016",
   "supplier"  : "supplier2",
-  "total"     : "$3",
+  "total"     : "$5",
   "payment"   : "Cash",
-  "product" : {
-     "product1"
-  }
-  "price" : {
-     "$3"
-  }
+  "product" : [
+    {"id":1,"name":"product1"}
+  ]
+  "price" : [
+    {"id":1,"value":"$5"}
+  ]
 },
 {
   "date"      : "1/17/2016",
   "supplier"  : "supplier3",
-  "total"     : "$15",
+  "total"     : "$20",
   "payment"   : "Cash",
-  "product" : {
-     "product1",
-     "product2",
-     "product3"
-  }
-  "price" : {
-     "$3",
-     "$5",
-     "$7"
-  }
+  "product" : [
+    {"id":1,"name":"product1"},
+    {"id":2,"name":"product2"},
+    {"id":3,"name":"product3"}
+  ]
+  "price" : [
+    {"id":1,"value":"$5"},
+    {"id":2,"value":"$5"},
+    {"id":3,"value":"$10"}
+  ]
 }]}
