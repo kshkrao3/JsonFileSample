@@ -7,7 +7,7 @@
   "product" : [
     {"id":1,"name":"product1"},
     {"id":2,"name":"product2"}
-  ]
+  ],
   "price" : [
     {"id":1,"value":"$5"},
     {"id":2,"value":"$5"}
@@ -20,7 +20,7 @@
   "payment"   : "Cash",
   "product" : [
     {"id":1,"name":"product1"}
-  ]
+  ],
   "price" : [
     {"id":1,"value":"$5"}
   ]
@@ -34,7 +34,7 @@
     {"id":1,"name":"product1"},
     {"id":2,"name":"product2"},
     {"id":3,"name":"product3"}
-  ]
+  ],
   "price" : [
     {"id":1,"value":"$5"},
     {"id":2,"value":"$5"},
