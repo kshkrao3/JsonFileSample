@@ -1,5 +1,5 @@
 {
-	"empList": [{
+	"data": [{
 		"empId": 3,
 		"firstName": "Kiran",
 		"lastName": "Kumar"
