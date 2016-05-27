@@ -1,0 +1,32 @@
+{
+	"total_count": "5",
+	"incomplete_results": false,
+	"items": [{
+		"id": 2,
+		"zipcode": "00601",
+		"areacode": "7,87,939",
+		"latitude": "18.16",
+		"longitude": "-66.72",
+		"country": "US",
+		"ci‌​ty": "PR",
+		"status": 1
+	}, {
+		"id": 8,
+		"zipcode": "00610",
+		"areacode": "787",
+		"latitude": "18.28",
+		"longitude": "-67.14",
+		"country": "US",
+		"city": "PR",
+		"status": 1
+	}, {
+		"id": 11,
+		"zipcode": "00613",
+		"areacode": "",
+		"latitude": "18.45",
+		"longitude": "-66.73",
+		"country": "US",
+		"city": "PR",
+		"status": 1
+	}]
+}
