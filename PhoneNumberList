@@ -1,14 +1,17 @@
-[{
-  PhoneNum:"8495000049",
-  isUser:true,
-  name:"Guruprasad Rao"
-},{
-  PhoneNum:"8495000049",
-  isUser:true,
-  name:"Guruprasad Rao"
-},{
-  PhoneNum:"8495000049",
-  isUser:true,
-  name:"Guruprasad Rao"
-}
+[
+    {
+        "name": "Guruprasad Rao",
+        "isUser": true,
+        "PhoneNum": "8495000049"
+    },
+    {
+        "name": "Guruprasad Rao",
+        "isUser": false,
+        "PhoneNum": "8495000050"
+    },
+    {
+        "name": "Test",
+        "isUser": false,
+        "PhoneNum": "8495000051"
+    }
 ]
